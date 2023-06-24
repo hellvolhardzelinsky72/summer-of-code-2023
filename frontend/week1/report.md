@@ -2,7 +2,7 @@
 
 1. The page reddit.com is divided into nested elements. These elements form a binary tree data structure, with <html> being the root node, and all other elements being child nodes. ![tree-structure](/website/assets/tree-strcuture.png). The elements are visually indented to easily identify the parent-child relationship.
 
-2.Editing the color property of the button, you can see how I changed the color from original![button color orange](frontend/week1/website/assets/button-color-before.png) to rgb(250,0,250)![button color pink](/website/assets/button-color-before.png).
+2.Editing the color property of the button, you can see how I changed the color from original![button color orange](/frontend/week1/website/assets/button-color-before.png) to rgb(250,0,250)![button color pink](/website/assets/button-color-before.png).
 
 3.So I used the id acceptabletest instead and the function innerText with the . operator to change the innertext from advertisement to hello world.![queryselector](/website/assets/query-selector.png)
 
