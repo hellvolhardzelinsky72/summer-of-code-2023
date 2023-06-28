@@ -1,6 +1,7 @@
 *{
     margin: 0px;
     padding:0px;
+    font-family:Poppins;
 }
 .section-1{
     width:100vw;
@@ -35,7 +36,7 @@
     margin-left:30%;
 }
 .section-1-static-top-bar-logo{
-    height:80%;
+    height:100%;
     opacity: 0.7;
 
 }
@@ -165,7 +166,7 @@
     margin-top:5%;
 }
 .section-2-card-content-message{
-    font-size: 1.6vw;
+    font-size: 1.46vw;
     margin-top: 10%;
     color: rgb(78, 78, 78);
 }
@@ -174,7 +175,7 @@
     height: 15%;
     align-self: center;
     display: flex;
-    font-size: 1.7vw;
+    font-size: 1.46vw;
     color: #0082df;
 }
 
@@ -214,7 +215,7 @@
     flex-direction: row;
     margin-top: 50px;
     justify-content: space-evenly;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 
     
 }
@@ -235,7 +236,7 @@
 }
 
 .section-3-flex-container-box-content{
-    margin-top:40px ;
+    margin-top:20px ;
     text-align: center;
 }
 .section-3-flex-container-box-content-heading{
@@ -301,7 +302,6 @@
     align-self:flex-end;
     background-color: #fbfbff;
     display: flex;
-    overflow:scroll;
 }
 .section-4-carousel-message-box{
     width:90%;
@@ -313,7 +313,7 @@
 
 }
 .section-4-carousel-message-header{
-    font-size: 4.2vw;
+    font-size: 4.6vw;
 
 }
 .section-4-carousel-message-content{
@@ -359,16 +359,15 @@
 }
 .footer{
     width:100vw;
-    height:5.625vw;
+    height:10vw;
     background:#4A99D3;
     display: flex;
     align-items: center;
 }
 .footer-image-outer{
-    height:50%;
+    /*height:50%;*/
     margin-left: 5%;
 }
 .footer-image{
-    height: 100%;
-    filter: invert(100%);
+    height:9vw;
 }
